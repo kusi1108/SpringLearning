@@ -1,0 +1,8 @@
+package com.example.example.first;
+
+public class Alien {
+	public void code() {
+		System.out.println("I'm learning spring using Spring suite tool");
+	}
+
+}

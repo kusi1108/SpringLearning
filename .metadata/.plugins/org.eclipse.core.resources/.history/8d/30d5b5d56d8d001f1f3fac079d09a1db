@@ -1,0 +1,15 @@
+package com.example.example.first;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Alien {
+	
+	Latptop lap;
+	
+    public void code(){
+//        System.out.println("I'm learning Spring using Spring Suite Tool.");
+    	lap.compile();
+    }
+
+}
