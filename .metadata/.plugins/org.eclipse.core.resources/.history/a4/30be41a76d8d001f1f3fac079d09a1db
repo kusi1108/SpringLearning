@@ -1,0 +1,10 @@
+package com.example.example.first;
+
+public class Latptop {
+
+	public void compile() {
+		System.out.println("Compiling");
+		
+	}
+
+}
